@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+form{
+  text-align: center;
+  border: 2px solid black;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-left: 220px;
+  margin-right: 220px;
+  float: right;
+}
+#t2{
+  text-decoration: dashed;
+  text-shadow: tomato;
+  color: tomato;
+}
+.p1{
+  text-decoration: none;
+  margin: 70px;
+  text-justify: auto;
+  color: blanchedalmond;
+}
+#t1{
+  text-shadow: 2px red;
+}
+p{
+  margin: 5px;
+}
+img{
+  width: 40%;
+  float: left;
+  height: 450px;
+}
+h1{
+  color:darkblue;
+}
